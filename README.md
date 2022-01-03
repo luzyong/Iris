@@ -10,5 +10,5 @@ La aplicación es capaz de recibir notificaciones push a través del servicio de
 
 ## Colaboradores
 Luz Yong
-[![Joshua Soria]](https://github.com/JoshJSL)
-[![Francisco Vera]](https://github.com/VR-Francisco)
+[Joshua Soria](https://github.com/JoshJSL)
+[Francisco Vera](https://github.com/VR-Francisco)
