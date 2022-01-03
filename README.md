@@ -9,6 +9,6 @@ La aplicación es capaz de recibir notificaciones push a través del servicio de
 [![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogOIELYbQZXOUA0orWgEHZeyZPf5DxAgbPLBRcyTwUCmAqnIX62c5CwYJnZLxWf6KpLE&usqp=CAU)](https://www.youtube.com/watch?v=GkUESsxwdN4)
 
 ## Colaboradores
-Luz Yong
+Luz Yong \n
 [Joshua Soria](https://github.com/JoshJSL)
 [Francisco Vera](https://github.com/VR-Francisco)
