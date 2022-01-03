@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656628418109",
+    "project_id": "domot-ing",
+    "storage_bucket": "domot-ing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656628418109:android:81732b743cffc7c5ed4c54",
+        "android_client_info": {
+          "package_name": "com.coco.seniasyvoz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656628418109-fpb8jlqgf0gjtmnihgdev22irrjnec21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIegeM-FmPJGRU5fQp2yxyW9lExgOmMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656628418109-fpb8jlqgf0gjtmnihgdev22irrjnec21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

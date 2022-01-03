@@ -1,0 +1,26 @@
+{
+  "name": "proyectoled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node conect.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1",
+    "firebase": "^9.6.1",
+    "firebase-admin": "^10.0.1",
+    "http": "0.0.1-security",
+    "johnny-five": "^2.1.0",
+    "mqtt": "^4.2.8",
+    "natives": "^1.1.6",
+    "net": "^1.0.2",
+    "serialport": "^9.2.8",
+    "socket.io": "^4.4.0"
+  }
+}
