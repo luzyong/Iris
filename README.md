@@ -6,4 +6,4 @@ Las señas se identifican a través de MediaPipe de Google, lo que nos permite a
 La aplicación es capaz de recibir notificaciones push a través del servicio de Firebase Cloud Message de google.
 
 ## Demostración
-[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=GkUESsxwdN4)
+[![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogOIELYbQZXOUA0orWgEHZeyZPf5DxAgbPLBRcyTwUCmAqnIX62c5CwYJnZLxWf6KpLE&usqp=CAU)](https://www.youtube.com/watch?v=GkUESsxwdN4)
